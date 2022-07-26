@@ -39,6 +39,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+<h3 align="left">Find me at 📩</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gerardo-alonzo-marin-parra-747785144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GerardoMP18" height="30" width="40" /></a>
+<a href="https://medium.com/@gerardomarinparra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@GerardoMP18" height="30" width="40" /></a>
+
 
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical">
 
