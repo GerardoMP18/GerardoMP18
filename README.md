@@ -1,5 +1,7 @@
 <h2> Hi, I'm Gerardo Marin, software developer 👋</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GerardoMP18&label=Profile%20views&color=0e75b6&style=flat" alt="GerardoMP18" /> </p>
+
 <h3> About me </h3>
 
 - 🔭 I'm currently a student at Holberton School for Full-stack development 
