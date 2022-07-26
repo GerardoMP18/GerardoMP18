@@ -44,7 +44,7 @@
 <a href="https://www.linkedin.com/in/gerardo-alonzo-marin-parra-747785144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="GerardoMP18" height="30" width="40" /></a>
 <a href="https://medium.com/@gerardomarinparra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@GerardoMP18" height="30" width="40" /></a>
 <br>
-  
+<br>
 <img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical">
 
 <img align="" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GerardoMP18&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical">
