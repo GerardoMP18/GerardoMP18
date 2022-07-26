@@ -1,6 +1,5 @@
 ### Hi, I'm Gerardo Marin, software developer 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I'm currently a student at Holberton School for Full-stack development 
 - 🌱 I’m currently learning Python and C.
