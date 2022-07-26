@@ -17,7 +17,5 @@
 
 <h3> Skill: </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoMP18&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GerardoMP18&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical">
 
