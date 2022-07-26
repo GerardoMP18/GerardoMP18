@@ -1,6 +1,9 @@
-<h2> Hi, I'm Gerardo Marin, software developer 👋</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GerardoMP18&label=Profile%20views&color=0e75b6&style=flat" alt="GerardoMP18" /> </p>
+
+<h2> Hi, I'm Gerardo Marin, software developer 👋</h2>
+
+
 
 <h3> About me </h3>
 
@@ -14,4 +17,7 @@
 
 <h3> Skill: </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoMP18&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
