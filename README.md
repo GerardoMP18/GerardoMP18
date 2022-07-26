@@ -39,5 +39,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GerardoMP18&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical">
 
+<img align="left" width="51%" src="https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical">
+
+<img align="" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GerardoMP18&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical">
