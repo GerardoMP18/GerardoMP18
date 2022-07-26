@@ -12,5 +12,6 @@
 - 💼 Software Developer
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gerardo-alonzo-marin-parra-747785144/) [Gmail](mailto:gerardomarinparra18@gmail.com)
 
+<h3> Skill: </h3>
 
-<h3> Tech Stack </h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GerardoMP18&show_icons=true&theme=radical)
