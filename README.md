@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GerardoMP18&label=Profile%20views&color=0e75b6&style=flat" alt="GerardoMP18" /> </p>
 
-<h2> Hi, I'm Gerardo Marin, software developer 👋</h2>
+<h2> Hi, I'm Gerardo Marin, Software Developer 👋</h2>
 
 ![Gerardo Marin](https://user-images.githubusercontent.com/43628789/181128595-d8cf8b1f-3582-4c44-b1bb-19510b8ccf10.png)
 
